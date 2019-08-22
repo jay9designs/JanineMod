@@ -1,0 +1,64 @@
+h1{
+	color: black;
+	text-align: center;
+	padding-top: 30px;
+}
+p{
+	font-size: 14px;
+	text-align: left;
+    margin: 20px 10px 4px 10px;
+    padding-top: 20px;
+
+
+}
+
+h6{
+	font-size: 16px;
+	text-align: center;
+	padding: 0px 15px 5px 15px;
+
+}
+
+
+.boxes {
+
+	border: 1px solid black;
+  position: relative;
+  top: 50px;
+  width: 320px;
+ margin: 10px;
+}
+
+.float{
+	float: left;
+	margin: 10px;
+
+}
+
+
+.sboxes{
+	border: 1px solid black;
+  position: relative;
+  top: 10px;
+  width: 140px;
+  margin-top: -12px;
+  padding-top: 4px;
+  float: right;
+  
+}
+
+.sboxes1{
+	background-color: pink;
+}
+
+.sboxes2{
+	background-color: red;
+}
+
+.sboxes3{
+	background-color: yellow;
+}
+
+*  {
+  box-sizing: border-box;
+}
